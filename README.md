@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3 align="center">3D Generalist, Technical Artist, Programmer</h3>
 
-<!--
-**melodiella/melodiella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<!-- ABOUT THE PROJECT -->
+## Hello! My name is Melodi Clark and welcome to my github page! 👋
+I am a technical artist with a BFA degree in computer animation, currently enrolled at Animschool!
+* []() 💻Here are all of projects: **WIP [Website in progress]**
+* []() 📫Reach out via email at: **melodic3d [at] gmail [dot com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interested? Connect on:
+<a href="https://www.linkedin.com/in/melodiclark/">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="Icon Description">
+</a>
