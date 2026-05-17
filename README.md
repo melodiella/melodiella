@@ -1,4 +1,4 @@
-<h3 align="center">3D Technical Artist, Generalist, Programmer</h3>
+<h3 align="center">3D Technical Animator, Generalist, Programmer</h3>
 
  
 <!-- ABOUT THE PROJECT -->
