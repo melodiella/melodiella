@@ -1,4 +1,4 @@
-<h3 align="center">Technical Artist | Rigging & Pipeline Tools | Maya Python Developer</h3>
+<h3 align="center">Technical Artist | Rigging & Pipeline | Programmer </h3>
 
  
 <!-- ABOUT THE PROJECT -->
