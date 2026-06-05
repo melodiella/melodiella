@@ -1,4 +1,4 @@
-<h3 align="center">3D Technical Animator, Generalist, Programmer</h3>
+<h3 align="center">Technical Artist | Rigging & Pipeline Tools | Maya Python Developer</h3>
 
  
 <!-- ABOUT THE PROJECT -->
